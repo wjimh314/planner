@@ -1,4 +1,11 @@
 # planner
+in this project we were asked to create a working schedule web application. In this app it is suppose to allow a user to click ona time box add an event and then save it. once an event has passed it is to chnge coor to that row to note the event has been completed. 
+
+git hub url: https://github.com/wjimh314/planner
+
+live url: https://wjimh314.github.io/planner/
+
+
 
 user story :
 
