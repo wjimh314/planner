@@ -1,5 +1,10 @@
 
+
+var rightNow = moment().format("MMMM Do YYYY, h:mm:ss a");
+
+const timeBlock = document.querySelector("#time-block");
+
 function displayTime() {
-    var rightNow = moment().format('MMM DD, YYYY [at] hh:mm:ss a');
-    timeDisplayEl.text(rightNow);
-  }
+    timeBlock.innerHTML = rightNow;
+}
+displayTime()

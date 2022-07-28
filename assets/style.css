@@ -70,10 +70,15 @@ body {
     transition: all .3s ease-in-out;
   }
   .container{
-    background-color:#06AED5;
+    background-color:#fbfcfc;
     
   }
  
-
-  
+li.row{
+  cursor: pointer;
+  background-color: white;
+}
+#rowa{
+  cursor:p
+}
  
