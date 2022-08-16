@@ -49,3 +49,74 @@ moment()
 --Research Bootstrap-extend 
 7. text must be able to save to local storage
 8. whenever page is refressed saved event stays.
+
+
+
+class="mh-100" style="width: 50px; height: 50px; background-color: rgba(0,0,255,0.1); border:1px black";>12 a.m</div>
+      </div>
+      
+      <div>
+        <div class="mh-100" style="width: 50px; height: 50px; background-color: rgba(0,0,255,0.1);">1 a.m </div>
+      </div>
+
+      <div>
+        <div class="mh-100" style="width: 50px; height: 50px; background-color: rgba(0,0,255,0.1);">2 a.m</div>
+      </div>
+      
+      <div>
+        <div class="mh-100" style="width: 50px; height: 50px; background-color: rgba(0,0,255,0.1);">3 a.m</div>
+      </div>
+      
+      <div>
+        <div class="mh-100" style="width: 50px; height: 50px; background-color: rgba(0,0,255,0.1);">4 a.m 100%</div>
+      </div>
+      
+      <div>
+        <div class="mh-100" style="width: 50px; height: 50px; background-color: rgba(0,0,255,0.1);">5.am</div>
+      </div>
+      <div>
+        <div class="mh-100" style="width: 50px; height: 50px; background-color: rgba(0,0,255,0.1);">6 a.m</div>
+      </div>
+      
+      <div>
+        <div class="mh-100" style="width: 50px; height: 50px; background-color: rgba(0,0,255,0.1);">7 a.m</div>
+      </div>
+      
+      <div>
+        <div class="mh-100" style="width: 50px; height: 50px; background-color: rgba(0,0,255,0.1);">8 a.m</div>
+      </div>
+      
+      <div>
+        <div class="mh-100" style="width: 50px; height: 50px; background-color: rgba(0,0,255,0.1);">9 a.m</div>
+      </div>
+      <div>
+        <div class="mh-100" style="width: 50px; height: 50px; background-color: rgba(0,0,255,0.1);">10 a.m</div>
+      </div>
+      
+      <div>
+        <div class="mh-100" style="width: 50px; height: 50px; background-color: rgba(0,0,255,0.1);">11 a.m </div>
+      </div>
+      
+      <div>
+        <div class="mh-100" style="width: 50px; height: 50px; background-color: rgba(0,0,255,0.1);">12 p.m </div>
+      </div>
+      
+      <div>
+        <div class="mh-100" style="width: 50px; height: 50px; background-color: rgba(0,0,255,0.1);">1 p.m</div>
+      </div>
+      
+      <div>
+        <div class="mh-100" style="width: 50px; height: 50px; background-color: rgba(0,0,255,0.1);">2 p.m </div>
+      </div>
+      
+      <div>
+        <div class="mh-100" style="width: 50px; height: 50px; background-color: rgba(0,0,255,0.1);">3 p.m </div>
+      </div>
+      
+      <div>
+        <div class="mh-100" style="width: 50px; height: 50px; background-color: rgba(0,0,255,0.1);">4 p.m </div>
+      </div>
+      
+      <div>
+        <div class="mh-100" style="width: 50px; height: 50px; background-color: rgba(0,0,255,0.1);">5 p.m </div>
+      </div>
