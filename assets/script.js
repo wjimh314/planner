@@ -1,5 +1,5 @@
 var rightNow = moment().format("MMMM Do YYYY, h:mm:ss a");
-
+var description = $("#description").val();
 const timeBlock = document.querySelector("#time-block");
 
 function displayTime() {
@@ -9,20 +9,11 @@ displayTime();
 
 var row = document.querySelector("row");
 
-let timeBlock = [
-	"9am",
-	"10am",
-	"11am",
-	"12am",
-	"1pm",
-	"2pm",
-	"3pm",
-	"4pm",
-	"5pm",
-];
+let time = ["9am", "10am", "11am", "12am", "1pm", "2pm", "3pm", "4pm", "5pm"];
 
-$(document).on("click", ".saveBtn", function () {
-	var SaveBtnValue = $(this).val();
-	var desctiption = document.getElementById(SaveBtnValue).value;
-	localStorage.setItem(SaveBtnValue, desctiption);
+$(".saveBtn").on("click", function () {
+	var SaveBtnValue = "skfjhslkgf";
+	console.log(SaveBtnValue, description);
+
+	localStorage.setItem(SaveBtnValue, description);
 });
